@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="80" viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-blue" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#007bff" />
+      <stop offset="100%" stop-color="#0056ff" />
+    </linearGradient>
+  </defs>
+  <text x="0" y="55" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="700" fill="url(#grad-blue)">D</text>
+  <text x="55" y="55" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="600" fill="#111111">Designs</text>
+</svg>
