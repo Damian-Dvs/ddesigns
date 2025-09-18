@@ -28,9 +28,9 @@ export default function Home() {
 
       {/* What to expect */}
       <Section tint>
-        <div className="measure center content">
-          <h2>Simple, practical process</h2>
-          <div className="points">
+        <div className="measure mx-auto text-center">
+          <h2 className="text-2xl sm:text-3xl font-semibold tracking-tight">Simple, practical process</h2>
+          <div className="points mt-4 space-y-3">
             <p>We agree the pages and priorities, then move quickly with short feedback loops.</p>
             <p>I write tidy, plain-English copy and make sure every page has a clear next step.</p>
             <p>You’ll always see progress and know what’s next.</p>
@@ -41,9 +41,8 @@ export default function Home() {
       {/* Recent work highlights (placeholder cards keep structure) */}
       <Section>
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
-          <ShowcaseCard title="Local trades" blurb="Small brochure site with services and reviews." result="More calls from local searches." />
-          <ShowcaseCard title="Café & bakery" blurb="Menu, opening times and Instagram gallery." result="Clear info and more footfall." />
-          <ShowcaseCard title="Charity" blurb="Clean structure and better accessibility." result="Easier to find information." />
+          <ShowcaseCard title="Local trades business" blurb='Clear home page, simple services list and reviews section.' result='More calls from local searches.' image='/shropshine.jpg'/>
+          <ShowcaseCard title="Personal Websites" blurb='Custom Branding with personal updates and content management solution and contact forms' result='Visitors find information faster.' image="/HB95.jpg"/>
         </div>
       </Section>
 
