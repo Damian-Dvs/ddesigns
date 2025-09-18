@@ -16,7 +16,7 @@ export default function Privacy() {
           <p><em>Last updated: 15–09–2025</em></p>
 
           <h2>Who we are</h2>
-          <p>DDesigns is a web design studio based in the UK. For any privacy questions, email <a className="link" href="mailto:you@example.com">you@example.com</a>.</p>
+          <p>DD web designs is a web design studio based in the UK. For any privacy questions, email <a className="link" href="mailto:you@example.com">you@example.com</a>.</p>
 
           <h2>What data we collect</h2>
           <ul>

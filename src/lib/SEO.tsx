@@ -6,7 +6,7 @@ type Props = {
 };
 
 export default function SEO({
-  title = 'DDesigns — Local Website Design',
+  title = 'DD Web Designs — Local Website Design',
   description = 'Affordable, friendly websites for small local businesses. Clear content, modern design, fast pages and SEO basics.',
   url = 'https://ddesigns.example/',
   image = '/favicon.svg',
